@@ -1,4 +1,4 @@
-function maxFilter(block)
+function max_filter(block)
 % Level-2 MATLAB file S-Function for unit delay demo.
 
 %   Copyright 1990-2009 The MathWorks, Inc.
