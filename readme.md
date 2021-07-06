@@ -9,8 +9,8 @@
 
 ## result 
 1. module view
-![module](./asset/module.jpg)
+![module](./assert/module.jpg)
 
-2. result view
-![result](./asset/simulink.jpg)
+2. balance view
+![result](./assert/balance-region.jpg)
 
