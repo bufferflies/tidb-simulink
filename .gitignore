@@ -1,2 +1,3 @@
 *.slxc
-./slprj
+*.original
+slprj/
